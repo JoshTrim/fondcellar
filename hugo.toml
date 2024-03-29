@@ -1,4 +1,5 @@
 baseURL = 'https://fondcellar.com/'
 languageCode = 'en-us'
 title = 'fondcellar'
-theme = 'papermod'
+theme = 'github.com/adityatelange/hugo-PaperMod'
+
